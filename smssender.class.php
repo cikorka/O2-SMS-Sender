@@ -8,8 +8,8 @@
  *
  * Použití:
  * $sms =&new SMSSender();
- * $sms->send("725303989", "Ahoj");
- * $sms->sendArray(array("725303989" => "SMS 1", "724738307" => "SMS 2"));
+ * $sms->send("telefonní číslo", "Ahoj");
+ * $sms->sendArray(array("telefonní číslo 1" => "SMS 1", "telefonní číslo 2" => "SMS 2"));
  *
  */	
  
