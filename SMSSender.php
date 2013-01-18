@@ -25,8 +25,8 @@
  * $sms->send("telefonní číslo", "Ahoj");
  * $sms->sendArray(array("telefonní číslo 1" => "SMS 1", "telefonní číslo 2" => "SMS 2"));
  *
- * @copyright	  Copyright 2005-2012, Irisatel plus s.r.o.
- * @link		  http://www.irisatel.cz
+ * @copyright	  Copyright 2005-2012, Petr Jeřábek
+ * @link		  http://www.cikorka.cz
  * @throws Exception
  * @throws Exception
  */
